@@ -36,4 +36,4 @@ Projeyi bilgisayarınızda çalıştırmak için:
 İletişim
 Geliştirici: Ali Kalyon
 
-GitHub Profilim: (https://github.com/The60)
+GitHub Profilim: (https://github.com/alikalyon)
